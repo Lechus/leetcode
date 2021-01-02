@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leedcode.Code", "Leedcode.Code\Leedcode.Code.csproj", "{77A94C87-07C3-4134-B3A1-54F8B818A12B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leedcode.Code.UnitTests", "Leedcode.Code.UnitTests\Leedcode.Code.UnitTests.csproj", "{F52644B2-5CA6-44BF-865A-745D6EC1ED7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A94C87-07C3-4134-B3A1-54F8B818A12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A94C87-07C3-4134-B3A1-54F8B818A12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A94C87-07C3-4134-B3A1-54F8B818A12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A94C87-07C3-4134-B3A1-54F8B818A12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52644B2-5CA6-44BF-865A-745D6EC1ED7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52644B2-5CA6-44BF-865A-745D6EC1ED7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52644B2-5CA6-44BF-865A-745D6EC1ED7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52644B2-5CA6-44BF-865A-745D6EC1ED7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA6521DB-8AE4-4CC9-9AED-B06E57ED1FFB}
+	EndGlobalSection
+EndGlobal
